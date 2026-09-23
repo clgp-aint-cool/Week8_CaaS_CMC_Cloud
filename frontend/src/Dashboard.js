@@ -199,7 +199,7 @@ export default function Dashboard({ onLogout, onNavigate }) {
                 Scale pods: notify works cross-pod using Redis pub/sub (next
                 step)
               </li>
-              <li>Caolegiaphu</li>
+              <li>Caolegiaphu olodo oldo</li>
             </ul>
           </Card>
         </div>
